@@ -1,5 +1,25 @@
-# Vue 3 + Vite
+# CatchUp
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Summary
+News API client application, illustrating UI components with PrimeVue, and API service integration with Axios. It also supports i18n with Vue I18n.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+# Features
+- PrimeVue UI components
+- Axios API service integration
+- Vue I18n for localization
+- Fetch news from News API
+- Fetch news sources from News API
+- Environment variables
+
+# Framework and Dependencies
+The project is built with Vue 3 Framework, and the following dependencies:
+- PrimeVue (https://primevue.org/)
+- Axios (https://axios-http.com/)
+- Vue I18n (https://vue-i18n.intlify.dev/)
+- Dotenv (https://www.npmjs.com/package/dotenv)
+
+# Information Providers
+- News API (https://newsapi.org/)
+- Clearbit Logo API (https://clearbit.com/logo)
+
+
